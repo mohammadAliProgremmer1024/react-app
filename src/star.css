@@ -1,0 +1,38 @@
+
+.starRaitingStyle-a0wws0ffds {
+    font-family: cursive;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    width: fit-content;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+.stars-a0wws0ffds {
+    display: flex;
+    margin-top: 5px;
+}
+.containStyle-a0wws0ffds {
+    cursor: pointer;
+}
+.star-a0wws0ffds {
+    width: 25px;
+    height: 25px;
+    fill: yellow;
+    stroke: black;
+}
+.starNot-a0wws0ffds {
+    fill: none;
+}
+.starBtn-a0wws0ffds {
+    border-radius: 5px;
+    padding: 3px 8px;
+    border: none;
+    cursor: pointer;
+}
+.star-title-a0wws0ffds {
+    margin-right: 2px;
+    font-size: 25px;
+    font-weight: bold;
+}
